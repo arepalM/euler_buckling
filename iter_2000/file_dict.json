@@ -1,0 +1,8 @@
+{
+    "root": "C:\\Users\\hokie\\OneDrive - Johns Hopkins\\Documents\\JHU\\Research\\morphing wing\\Abaqus\\buckling\\elastic_hex20",
+    "job": "iter_2000",
+    "odbfile": "C:\\Users\\hokie\\OneDrive - Johns Hopkins\\Documents\\JHU\\Research\\morphing wing\\Abaqus\\buckling\\elastic_hex20\\iter_2000\\iter_2000.odb",
+    "outdir": "C:\\Users\\hokie\\OneDrive - Johns Hopkins\\Documents\\JHU\\Research\\morphing wing\\Abaqus\\buckling\\elastic_hex20\\iter_2000",
+    "cubit_build": "run_cubit_build2000.py",
+    "abq_part": "part_2000.inp"
+}

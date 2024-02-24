@@ -1,0 +1,7 @@
+{
+    "BEAM_RAD": "30000",
+    "ELEM_INT_THICK": "4",
+    "ELEM_INT_DEPTH": "6",
+    "ELEM_INT_LENGTH": "100",
+    "ELTYPE": "HEX20"
+}
